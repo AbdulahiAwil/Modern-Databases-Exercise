@@ -49,8 +49,4 @@ You used the `EXPLAIN` command to analyze query performance and confirm whether 
 
 ### ✅ Conclusion
 
-The query:
-```sql
-SELECT * FROM it_students WHERE email LIKE 'f%';
-
 ![alt text](image-5.png)
